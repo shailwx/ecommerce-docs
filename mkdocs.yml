@@ -1,0 +1,17 @@
+site_name: Ecommerce Platform Docs
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - PRD:
+    - MVP: PRD/MVP.md
+  - Specs:
+    - Catalog: specs/catalog.md
+    - Cart: specs/cart.md
+    - Checkout: specs/checkout.md
+    - User: specs/user.md
+    - Order: specs/order.md
+    - Admin: specs/admin.md
+  - Architecture: architecture/system-overview.md
+  - Onboarding: onboarding/getting-started.md
+  - Glossary: glossary.md
